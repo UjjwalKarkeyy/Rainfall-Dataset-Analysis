@@ -51,8 +51,6 @@ I recently dove into a rainfall dataset using **MySQL** — and let me tell you,
 > If this were your dataset,  
 > **what’s one unexpected or creative question you’d ask using SQL?**
 
-👇 Comment below and let’s brainstorm some rainy-day queries!
-
 ---
 
 ### 👨‍💻 Author
